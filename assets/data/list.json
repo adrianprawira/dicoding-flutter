@@ -1,0 +1,92 @@
+[
+        {
+            "nama": "Alun-Alun Kian Santang",
+            "gambar_url": "http://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_1.jpg",
+            "kategori": "Taman",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Leuwi Cidomas",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/cidomas.JPG",
+            "kategori": "Alam",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Curug Cipurut",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/curug_cipurut.JPG",
+            "kategori": "Alam",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Kampung Andir",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_6.jpg",
+            "kategori": "Budaya",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Giri Tirta Kahuripan",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_7.jpg",
+            "kategori": "Agrowisata",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Gunung Lembu",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gunung_lembu.JPG",
+            "kategori": "Alam",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Grama Tirta Jatiluhur",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/grama_tirta_jatiluhur.JPG",
+            "kategori": "Kawasan Wisata Terpadu",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Mata Air Cisaladah",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_11.jpg",
+            "kategori": "Alam",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Parang Gombong ",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/parang_gombong.JPG",
+            "kategori": "Alam",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Gunung Bongkok",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_14.jpg",
+            "kategori": "Alam",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Situ Wanayasa",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_15.jpg",
+            "kategori": "Alam",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Taman Maya Datar",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_16.jpg",
+            "kategori": "Taman",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Taman Air Mancur Sri Baduga",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_17.jpg",
+            "kategori": "Taman",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Bendungan Cirata",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_18.jpg",
+            "kategori": "Alam",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        },
+        {
+            "nama": "Ujung Aspal",
+            "gambar_url": "https://dev.farizdotid.com/api/halopwk/gambar/wisata/gambar_19.jpg",
+            "kategori": "Alam",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla ultricies orci sed tincidunt. Nunc vitae placerat dui, quis varius arcu. Praesent malesuada est quis augue auctor pellentesque. Phasellus in egestas purus. Mauris quis tristique massa, sodales facilisis dui. Nullam in purus ut lacus ultrices aliquam. Sed quis quam turpis. Mauris viverra quis arcu a pharetra. Aenean imperdiet magna eget semper pulvinar. Fusce vehicula condimentum risus quis auctor. Etiam id eros neque. Maecenas tempor libero et vehicula elementum. Curabitur sit amet pellentesque velit. Integer sed turpis ac lectus dapibus varius vel ac justo. Etiam ex sem, condimentum sed libero a, sagittis dictum magna. Sed elit metus, laoreet vel rutrum ultricies, egestas non tortor."
+        }
+]
