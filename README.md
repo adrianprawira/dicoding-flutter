@@ -13,8 +13,12 @@ Kalau tertarik, silahkan lihat link ('https://farizdotid.com/blog/dokumentasi-ap
 
 FYI Project ini sudah di submit, namun masih akan dikembangkan kembali untuk menambah fitur-fitur baru.
 
-# Features 
+## Features
+
+### Phase 1 
 - List Tempat Wisata di Purwakarta (cleared)
 - Profile (cleared)
+
+### Phase 2
 - Search Tempat Wisata (in development)
-- Search Tempat Wisata (in development)
+- Add Favorite Tourist Places (in development)
