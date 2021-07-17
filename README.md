@@ -17,6 +17,7 @@ FYI Project ini sudah di submit, namun masih akan dikembangkan kembali untuk men
 
 ### Phase 1
 Result:
+<a href="https://imgur.com/a/Q7i5PLj"><img src="https://imgur.com/a/Q7i5PLj.gif"/></a>
 ![](https://imgur.com/a/Q7i5PLj.gif)
 
 - List Tempat Wisata di Purwakarta (cleared)
