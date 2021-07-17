@@ -1,16 +1,20 @@
-# dicoding_submission_flutter_beginner
+# Dicoding Membuat Aplikasi Flutter
+Submission Final
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+Ini adalah project untuk membuat aplikasi catalog tourist places di Purwakarta
 
-This project is a starting point for a Flutter application.
+Project ini dibuat untuk menyelesaikan course dicoding bernama
+"Membuat Aplikasi Flutter"
 
-A few resources to get you started if this is your first Flutter project:
+Project ini menggunakan API yang dibuat oleh farizdotid "DOKUMENTASI API PURWAKARTA".
+Kalau tertarik, silahkan lihat link ('https://farizdotid.com/blog/dokumentasi-api-purwakarta/')
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+FYI Project ini sudah di submit, namun masih akan dikembangkan kembali untuk menambah fitur-fitur baru.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features 
+- List Tempat Wisata di Purwakarta (cleared)
+- Profile (cleared)
+- Search Tempat Wisata (in development)
+- Search Tempat Wisata (in development)
